@@ -79,7 +79,7 @@ export default function Editor() {
             onChange={handleChange}
           />
         </Tabs.TabPane>
-        <Tabs.TabPane tab="更多信息" key="5">
+        <Tabs.TabPane tab="荣誉&证书" key="5">
           <FormListCreator
             name="awardList"
             config={config.awardList}

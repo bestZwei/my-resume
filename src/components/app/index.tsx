@@ -59,7 +59,7 @@ export default function App({}: Props) {
         </div>
         <Editor />
         <div className="tip">
-          关注公众号&quot;JS酷&quot;，回复&quot;简历&quot;获取源码
+
         </div>
       </div>
       <div className="flex-1 bg-gray-800 flex justify-center items-center">

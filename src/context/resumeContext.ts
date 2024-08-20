@@ -59,7 +59,7 @@ export const initialState = {
     },
     {
       info: "德语 欧标 B2",
-      time: "2020.10",
+      time: "2024",
     },
   ],
   workExpList: [
