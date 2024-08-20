@@ -12,7 +12,7 @@ export const initialState = {
     positionTitle: "前端工程师/IT安全工程师",
   },
   avatar: {
-    url: "https://pics.sputnik.cloudns.ch/file/b88bb465fb46793731d2f.png",
+    url: "https://avatars.githubusercontent.com/u/110226580",
     display: true,
     circle: true,
     theme: "1",
