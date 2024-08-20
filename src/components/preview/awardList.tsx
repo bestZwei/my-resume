@@ -15,7 +15,7 @@ export default function awardList({ data }: Props): ReactElement {
   return (
     <View style={s.wrapper}>
       <View style={s.wrapper_header}>
-        <Text>更多信息</Text>
+        <Text>荣誉&证书</Text>
       </View>
       <View>
         {data.map((item, index) => {
